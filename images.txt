@@ -1,2 +1,2 @@
-tomcat
-ubuntu22.04
+ubuntu:22.04
+mysql:5.7.44
