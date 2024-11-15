@@ -1,1 +1,4 @@
 nginx
+centos7.9
+tomcat
+uabntu22.04
