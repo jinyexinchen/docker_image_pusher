@@ -1,2 +1,3 @@
-ubuntu:22.04
-mysql:5.7.44
+oracle11g
+centos：7.9
+httpd
