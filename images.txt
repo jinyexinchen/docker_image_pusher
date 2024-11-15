@@ -1,4 +1,2 @@
-nginx
-centos7.9
 tomcat
-uabntu22.04
+ubuntu22.04
