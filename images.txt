@@ -1,1 +1,1 @@
-rocketmq-console:2.0.0
+hbase:1.3
