@@ -1,1 +1,10 @@
-zookeeper:3.7.0
+hbase:1.3
+rocketmq-console:2.0.0
+portainer/portainer-ce
+dubbo-admin
+kibana:7.16.3
+elasticsearch:7.16.3
+mongo:4.0
+mongo-express
+nacos
+mysql:5.7.37
