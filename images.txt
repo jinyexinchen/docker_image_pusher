@@ -1,1 +1,1 @@
-dubbo-admin
+portainer/portainer-ce
