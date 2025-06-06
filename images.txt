@@ -1,1 +1,7 @@
-centos:centos8.4.2105
+redis:7.4-alpine
+ubuntu:25.10
+mongo:8.0.10-noble
+docker:28.2.2
+openjdk:25-oraclelinux8
+debian:testing-20250520
+debian:stable-slim
