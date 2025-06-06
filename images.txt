@@ -1,1 +1,2 @@
-centos:8.5.21
+centos:8.0
+centos:8.5
