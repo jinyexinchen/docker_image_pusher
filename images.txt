@@ -1,3 +1,2 @@
-gdy666/lucky
-jeessy/ddns-go
-zoeyvid/nginx-proxy-manager
+--platform=Linux/386 gdy666/lucky
+--platform=Linux/arm/v7 gdy666/lucky
