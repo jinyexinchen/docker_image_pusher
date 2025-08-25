@@ -1,2 +1,2 @@
---platform=Linux/386 gdy666/lucky
---platform=Linux/arm/v7 gdy666/lucky
+--platform=linux/386 gdy666/lucky
+--platform=linux/arm/v7 gdy666/lucky
